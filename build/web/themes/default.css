@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:#cdc9c9;
+}
+
+#container{
+
+    width:80%;
+    margin-left:100px;
+    margin-top:80px;
+    margin-bottom:20px;
+
+}
+.error{
+    text-align: center;
+    color: #a70000;
+}
+
+.addActeur{
+    width:45%;
+    float:left;
+    margin-left: 10px;
+    margin-top:25px;
+}
+
+#errorMessage {
+    margin-bottom: 20px;
+}
+
